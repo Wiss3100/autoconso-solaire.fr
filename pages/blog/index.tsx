@@ -1,0 +1,1 @@
+<div>Blog index</div>
