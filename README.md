@@ -1,1 +1,0 @@
-# Le Guide Solaire
