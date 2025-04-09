@@ -1,1 +1,0 @@
-<div>Installer un kit solaire</div>
